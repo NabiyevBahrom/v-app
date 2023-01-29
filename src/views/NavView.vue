@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-dark bg-dark fixed-top">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">App</a>
+      <a class="navbar-brand" href="/">App</a>
       <H6 style="color: #fff">
         <div class="container">
           <div class="time_wrapper">
